@@ -1,0 +1,23 @@
+{
+    "shipper_company_name": "amautomation",
+    "shipper_company_id": "amautomation-420",
+    "shipper_name": "Amautomation",
+    "shipper_email": "amautomation@test.com",
+    "shipper_password": "Password@1234",
+    "shipper_name2": "Amautomation2",
+    "shipper_email2": "amautomation2@test.com",
+    "shipper_password2": "Password@123",
+    "carrier_company_name": "Amautomation_carrier",
+    "carrier_name": "Amautomation_carrier1",
+    "carrier_email": "amautomation_carrier1@test.com",
+    "carrier_password": "Password@123",
+    "carrier_name2": "Amautomation_carrier2",
+    "carrier_email2": "amautomation_carrier2@test.com",
+    "carrier_password2": "Password@123",
+    "facility_id": {
+        "temporary_facility": "Rk1fMTA2NTMzNw==",
+        "temporary_facility2": "Rk1fMTA2NTY1NQ==",
+        "temporary_facility#": "Rk1fMTA2Njc5Mw==",
+        "temporary_facility4": "Rk1fMTA2Njc5NQ=="
+    }
+}
